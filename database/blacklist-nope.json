@@ -1,32 +1,96 @@
 {
   "bukpal_2k": [
-    { "number": "083105520476", "note": "BUKPAL 2K" },
-    { "number": "082288849860", "note": "BUKPAL 2K" }
+    {
+      "number": "082288849860",
+      "note": "BUKPAL 2K"
+    },
+    {
+      "number": "083105520476",
+      "note": "BUKPAL 2K"
+    }
   ],
   "bukpal_3k": [
-    { "number": "087861894397", "note": "BUKPAL 3K" },
-    { "number": "088906138680", "note": "BUKPAL 3K" },
-    { "number": "081212430741", "note": "BUKPAL 3K" },
-    { "number": "085974783506", "note": "BUKPAL 3K" },
-    { "number": "088989937500", "note": "BUKPAL 3K" },
-    { "number": "081216807239", "note": "BUKPAL 3K" }
+    {
+      "number": "081212430741",
+      "note": "BUKPAL 3K"
+    },
+    {
+      "number": "081216807239",
+      "note": "BUKPAL 3K"
+    },
+    {
+      "number": "085974783506",
+      "note": "BUKPAL 3K"
+    },
+    {
+      "number": "087861894397",
+      "note": "BUKPAL 3K"
+    },
+    {
+      "number": "088906138680",
+      "note": "BUKPAL 3K"
+    },
+    {
+      "number": "088989937500",
+      "note": "BUKPAL 3K"
+    }
   ],
   "bukpal_5k": [
-    { "number": "087767399262", "note": "FT 5K / BUKPAL 5K" },
-    { "number": "083892986291", "note": "BUKPAL 5K" },
-    { "number": "083187250176", "note": "BUKPAL 5K" },
-    { "number": "08126844512", "note": "BUKPAL 5K" },
-    { "number": "088989937500", "note": "BUKPAL 5K" },
-    { "number": "085591463471", "note": "BUKPAL 5K" }
+    {
+      "number": "08126844512",
+      "note": "BUKPAL 5K"
+    },
+    {
+      "number": "083187250176",
+      "note": "BUKPAL 5K"
+    },
+    {
+      "number": "083892986291",
+      "note": "BUKPAL 5K"
+    },
+    {
+      "number": "085591463471",
+      "note": "BUKPAL 5K"
+    },
+    {
+      "number": "087767399262",
+      "note": "FT 5K / BUKPAL 5K"
+    },
+    {
+      "number": "088989937500",
+      "note": "BUKPAL 5K"
+    }
   ],
   "bukpal_10k": [
-    { "number": "083863897007", "note": "BUKPAL FT 10K" },
-    { "number": "087788306130", "note": "BUKPAL 10K" },
-    { "number": "0895321850783", "note": "BUKPAL 10K" }
+    {
+      "number": "083854263074",
+      "note": "BUKPAL 10K"
+    },
+    {
+      "number": "083863897007",
+      "note": "BUKPAL FT 10K"
+    },
+    {
+      "number": "087788306130",
+      "note": "BUKPAL 10K"
+    },
+    {
+      "number": "0895321850783",
+      "note": "BUKPAL 10K"
+    }
   ],
   "cheat": [
-    { "number": "081233345773", "note": "CHEAT" },
-    { "number": "085753370518", "note": "CHEAT" },
-    { "number": "083842504863", "note": "CHEAT" }
+    {
+      "number": "081233345773",
+      "note": "CHEAT"
+    },
+    {
+      "number": "083842504863",
+      "note": "CHEAT"
+    },
+    {
+      "number": "085753370518",
+      "note": "CHEAT"
+    }
   ]
 }
