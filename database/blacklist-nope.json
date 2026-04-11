@@ -89,10 +89,6 @@
       "note": "BUKPAL 5K"
     },
     {
-      "number": "082172245187",
-      "note": "BUKPAL 5K"
-    },
-    {
       "number": "083187250176",
       "note": "BUKPAL 5K"
     },
@@ -146,6 +142,10 @@
     }
   ],
   "bukpal_10k": [
+    {
+      "number": "082172245187",
+      "note": "BUKPAL 10K"
+    },
     {
       "number": "083848625617",
       "note": "BUKPAL 10K"
