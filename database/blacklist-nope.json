@@ -1,10 +1,6 @@
 {
   "bukpal_2k": [
     {
-      "number": "081230463248",
-      "note": "BUKPAL 2K"
-    },
-    {
       "number": "081351411664",
       "note": "BUKPAL 2K"
     },
@@ -232,6 +228,10 @@
     }
   ],
   "cheat": [
+    {
+      "number": "081230463248",
+      "note": "CHEAT"
+    },
     {
       "number": "081233345773",
       "note": "CHEAT"
